@@ -1,4 +1,9 @@
 //Bingo Number Generator
+/*
+first attempt at codeing after bingeing js and html/css tutorials.... havent figured out how to test yet 
+To figure out how to test later so that i can make this look pretty :s 
+*/
+
 window.onload=function (){
 	var ans = confirm("Welcome to Bingo would you wish to play?");
 	var Bingo =['B','I','N','G','O'];
